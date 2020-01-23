@@ -34,7 +34,7 @@ ax.set_title('Frecuencia', size= 20) # Título del gráfico
 
 plt.show()
 ```
-<img src="https://raw.githubusercontent.com/Bioinformatica2020/Anexos/master/Generos_Barras.png" width = 50%>
+<img src="https://raw.githubusercontent.com/Bioinformatica2020/Anexos/master/Generos_barras.png" width = 40%>
 
 ---
 ---
