@@ -36,6 +36,8 @@ plt.show()
 ```
 <img src="https://raw.githubusercontent.com/Bioinformatica2020/Anexos/master/Generos_Barras.png" width = 50%>
 
+---
+---
 
-#### `"Si lo oigo lo olvido, si lo veo lo entiendo, si lo hago lo aprendo"` 
-#### Confucio
+##### `"Si lo oigo lo olvido, si lo veo lo entiendo, si lo hago lo aprendo"` 
+##### Confucio
